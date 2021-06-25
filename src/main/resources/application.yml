@@ -1,0 +1,19 @@
+server:
+  port: 7075
+spring:
+  profiles:
+    active: local
+  application:
+    name: '@project.artifactId@'
+
+#swagger
+swagger.api:
+  title: 'COFFEE PAYMENT SERVICE'
+  description: 'Provide payment details for coffee service'
+  version: 1
+  apiType: private
+  defaultResponseMessage: false
+  basePackage: com.accenture.coffee
+  contact:
+    email: sambit1007599@gmail.com
+    teamName: Sambit Samal

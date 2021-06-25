@@ -1,0 +1,34 @@
+[
+  {
+    "userName": "nick",
+    "amountOwes": 106.5
+  },
+  {
+    "userName": "zoey",
+    "amountOwes": 56
+  },
+  {
+    "userName": "rochelle",
+    "amountOwes": 42.75
+  },
+  {
+    "userName": "bill",
+    "amountOwes": 29.25
+  },
+  {
+    "userName": "louis",
+    "amountOwes": -37.5
+  },
+  {
+    "userName": "francis",
+    "amountOwes": 66.5
+  },
+  {
+    "userName": "ellis",
+    "amountOwes": -41.75
+  },
+  {
+    "userName": "coach",
+    "amountOwes": -4
+  }
+]
