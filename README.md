@@ -30,7 +30,8 @@ These files contain data for orders, products and payments.
 - Git bash (Or any IDE from where you can connect to git)
 
 ## Steps to run the application
-- Checkout the code from git repo.
+- Checkout the code / Download from git repo(https://github.com/sambit1007599/coffee-payment-service.git)
+- checkout : open git bash and run command `git clone https://github.com/sambit1007599/coffee-payment-service.git`
 - open command prompt(cmd)
 - go inside the project folder
 - run command `mvn clean install`
