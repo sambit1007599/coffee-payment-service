@@ -1,16 +1,18 @@
 # Coffee Payment Service
 ![img_4.png](img_4.png)
-##Description:
+
+## Description:
 This service will provide following types of data.
 - Amount paid per user.
 - Amount that each user still owes.
 - If no user provided then amount for all users.
 
-##Source Data :
+## Source Data :
 3 JSON files present in resource folder.
 
 These files contain data for orders, products and payments.
-###examples
+
+### examples
 - Orders data : `{
 "user": "zoey",
 "drink": "short espresso",
