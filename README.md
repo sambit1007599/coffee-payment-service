@@ -45,14 +45,14 @@ Now application is up and running
 - ![img_5.png](img_5.png)
 
 ### 1. GET : /v1/owes
-####Description:
+#### Description:
 - This endpoint is to provide you data about amount that each user still owes. There are 2 options to fetch these data.
 - - If you provide specific username, then it will show you the data of that particular user
   - If you don't provide any specific username, then it will show you the data of all the users.
 - Click on GET -> Try it out -> give username(optional) -> Execute
 
 ### 2. GET : /v1/payments
-####Description:
+#### Description:
 - This endpoint is to provide you data about amount that each user paid. There are 2 options to fetch these data.
 - - If you provide specific username, then it will show you the data of that particular user
   - If you don't provide any specific username, then it will show you the data of all the users.
